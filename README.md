@@ -43,7 +43,7 @@
             <h3>Enlaces adicionales:</h3>
             <ul>
                 <li><a href="Olimpiadas Electromecanica_EPET_N1_unesco F.A.AL1.pdf" target="_blank">Informe en PDF</a></li>
-                <li><a href="https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3MzMxNDMyODVfZDQzOTg5OWItZWI1OC00MzBlLTk0ZGUtM2Y1NWE3MDRjNjdiLnN0bA?sheetId=Y2NiYjY1NzUtMmM1YS00MGIyLThiNjktMDlhOTM0ZGNmNWVj">Vista 360° de la máquina</a></li>
+                <li><a href="https://autode.sk/3VjIzNp">Vista 360° de la máquina</a></li>
             </ul>
         </section>
     </main>
